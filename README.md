@@ -1,2 +1,2 @@
 # Video_Decaptioning
-![result](../images/result.png)
+![result](./images/result.png)
