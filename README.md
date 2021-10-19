@@ -1,2 +1,2 @@
 # Video_Decaptioning
-![image text](https://github.com/Linya-lab/Video_Decaptioning/blob/master/images/result.png)
+![result](https://github.com/Linya-lab/Video_Decaptioning/raw/master/images/result.png)
