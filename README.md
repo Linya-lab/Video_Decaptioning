@@ -1,2 +1,2 @@
 # Deep_Video_Decaptioning
-![teaser](https://github.com/Linya-lab/Video_Decaptioning/blob/master/images/teaser.png?raw=true)
+<img src=https://github.com/Linya-lab/Video_Decaptioning/blob/master/images/teaser.png width=100>
