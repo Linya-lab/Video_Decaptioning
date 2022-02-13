@@ -16,7 +16,7 @@ If any part of our paper and repository is helpful to your work, please generous
 ## Introduction
 ![network](https://github.com/Linya-lab/Video_Decaptioning/blob/master/images/network.png?raw=true)
 
-## Preparation:
+## Preparation
 1. Install environment
 ```
 conda env create -f environment.yml 
@@ -29,7 +29,7 @@ conda activate dvd
   - [Mask_Extraction](https://maildhueducn-my.sharepoint.com/:u:/g/personal/2191420_mail_dhu_edu_cn/EaSYKsCiFoJBidxdfezACGsB4CfYak0hR_cGypUf9uN31A?e=aDCG3B)
   - [Video_Decaption](https://maildhueducn-my.sharepoint.com/:u:/g/personal/2191420_mail_dhu_edu_cn/EXQm-bYasU5Ag3221LoPAp8BBY7kOwyWfqlKAsCfBOnjZw?e=lsfMl6)
 
-## Brief code instruction:
+## Brief code instruction
 1. Extract png files for each mp4 videos (use ./dataset/video2png.sh)
 2. Set root path (modify --root_path flag in files)
 * Note that we attached pretrained weight of the final model at onedrive.
