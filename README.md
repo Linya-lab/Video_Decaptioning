@@ -30,12 +30,10 @@ conda activate dvd
   - [Video_Decaption](https://maildhueducn-my.sharepoint.com/:u:/g/personal/2191420_mail_dhu_edu_cn/EXQm-bYasU5Ag3221LoPAp8BBY7kOwyWfqlKAsCfBOnjZw?e=lsfMl6)
 
 Brief code instruction:
-1. Extract png files for each mp4 videos (use video_png.py)
+1. Extract png files for each mp4 videos (use .dataset/video2png.sh)
 2. Set root path (modify --root_path flag in scripts)
 3. Run the code using scripts
-  - scripts/train.sh (for training the final model)
-    - we trained for 200 epochs (about 3days using 2 gpus, GTX 1080 ti)
-  - scripts/test.sh (for testing the final model)
-    - 1~2 sec per video
-* Note that we attached pretrained weight of the final model at google drive.(final_model.pth)
+  - ./video_decaption/train.py (for training the final model)
+  - ./video_decaption/test.py (for testing the final model)
+* Note that we attached pretrained weight of the final model at onedrive.(netG.pth)
   Please properly modify the path of pretrained weight in test.sh file for testing.
