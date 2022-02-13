@@ -31,9 +31,6 @@ conda activate dvd
 
 ## Brief code instruction:
 1. Extract png files for each mp4 videos (use ./dataset/video2png.sh)
-2. Set root path (modify --root_path flag in scripts)
-3. Run the code using scripts
-  - ./video_decaption/train.py (for training the final model)
-  - ./video_decaption/test.py (for testing the final model)
+2. Set root path (modify --root_path flag in files)
 * Note that we attached pretrained weight of the final model at onedrive.
   Please properly modify the path of pretrained weight for testing.
