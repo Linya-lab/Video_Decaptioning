@@ -16,7 +16,7 @@ If any part of our paper and repository is helpful to your work, please generous
 ## Introduction
 In the context of news media and video entertainment, broadcasting programs from various languages, such as news, series or documentaries, there are frequently text captions or encrusted commercials or subtitles, which reduce visual attention and occlude parts of frames that may decrease the performance of automatic understanding systems.
 
-In this paper, we propose to learn a Deep Video Decaptioning Network (DVD-Net) for video decaptioning.
+In this paper, we propose a model to automatically remove subtitles from videos.
 
 ![network](https://github.com/Linya-lab/Video_Decaptioning/blob/master/images/network.png?raw=true)
 
