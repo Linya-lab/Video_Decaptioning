@@ -1,0 +1,12 @@
+This is the data for the competition. It is to be used responsibly. Starting kit is available in the "Files" tab.
+
+http://158.109.8.102/Inpainting/Track2/train.X.0*.tgz
+
+http://158.109.8.102/Inpainting/Track2/train.Y.0*.tgz
+
+http://158.109.8.102/Inpainting/Track2/dev.X.00.tgz
+
+http://158.109.8.102/Inpainting/Track2/dev.Y.00.tgz
+
+where * is in [0-6]. Each train archive contains 10000 samples, about 500MB. 
+Validation data for first (feed-back) phase consists in 5000 video clips.
