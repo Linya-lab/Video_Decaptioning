@@ -15,3 +15,10 @@ If any part of our paper and repository is helpful to your work, please generous
 
 ## Introduction
 ![network](https://github.com/Linya-lab/Video_Decaptioning/blob/master/images/network.png?raw=true)
+
+## Preparation:
+1.We build our project based on Pytorch and Python. For the full set of required Python packages, we suggest create a Conda environment from the provided YAML, e.g.
+```
+conda env create -f environment.yml 
+conda activate sttn
+```
