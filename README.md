@@ -36,4 +36,4 @@ conda activate dvd
   - ./video_decaption/train.py (for training the final model)
   - ./video_decaption/test.py (for testing the final model)
 * Note that we attached pretrained weight of the final model at onedrive.
-  Please properly modify the path of pretrained weight in test.sh file for testing.
+  Please properly modify the path of pretrained weight for testing.
