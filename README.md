@@ -24,7 +24,7 @@ In this paper, we propose a model to automatically remove subtitles from videos.
 1. Install environment
 ```
 conda env create -f environment.yml 
-conda activate dvd
+conda activate cpp
 ```
 2. Install Dependencies
   - ffmpeg (video to png)
