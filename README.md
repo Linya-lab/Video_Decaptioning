@@ -7,7 +7,7 @@ If any part of our paper and repository is helpful to your work, please generous
 ```
 @inproceedings{chu2021deep,
   title={Deep Video Decaptioning},
-  author={Chu, Pengpeng and Quan, Weize and Wang, Tong and Wang, Pan and Ren, Peiran and Yan23, Dong-Ming},
+  author={Chu Pengpeng, Quan Weize, Wang Tong, Wang Pan, Ren Peiran and Yan Dong-Ming},
   booktitle = {The Proceedings of the British Machine Vision Conference (BMVC)},
   year={2021}
 }
