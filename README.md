@@ -34,7 +34,6 @@ conda activate cpp
   - [Video_Decaption](https://maildhueducn-my.sharepoint.com/:u:/g/personal/2191420_mail_dhu_edu_cn/EXQm-bYasU5Ag3221LoPAp8BBY7kOwyWfqlKAsCfBOnjZw?e=lsfMl6)
 
 ## Brief code instruction
-1. Extract png files for each mp4 videos (use ./dataset/video2png.sh)
-2. Set root path (modify --root_path flag in files)
+Extract png files for each mp4 videos (use ./dataset/video2png.sh)
 * Note that we attached pretrained weight of the final model at onedrive.
   Please properly modify the path of pretrained weight for testing.
